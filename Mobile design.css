@@ -21,8 +21,8 @@ background-color: #262626;
 padding: 2rem;
 border-radius: 15px;
 text-align: center;
-width: 90%;
-max-width: 350%;
+width: 100%;
+max-width: 360px;
 
 }
 
@@ -41,8 +41,7 @@ margin-bottom: 1rem;
 }
 
 .role{
-margin-bottom: 1.5rem;
-object-fit: contain;
+margin-bottom: 1.5rem;;
 }
 
 .social-medias{
